@@ -1,3 +1,6 @@
+<img width="1536" height="1024" alt="TangeRemodeling LOGO" src="https://github.com/user-attachments/assets/4755fc23-bead-45f8-8384-f0f871e06488" />
+<img width="1536" height="1024" alt="Logo" src="https://github.com/user-attachments/assets/f069c9d4-fcef-4ebe-a876-6d583cc664c3" />
+[index.html](https://github.com/user-attachments/files/26328037/index.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
