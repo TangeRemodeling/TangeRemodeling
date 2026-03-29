@@ -1,10 +1,9 @@
-![photos](https://github.com/user-attachments/assets/84b24ccc-2ea7-4b85-967f-6a717f8601e1)
-
   <h1>Tange Remodeling LLC</h1>
   <p>Quality Work. Honest Service.</p>
-  <a href="tel:16024189220" class="button">Call Now</a>
-</section> 602.418.9220
-
+  <a class="button" href="https://www.facebook.com/tangeremodeling" target="_blank">
+    Visit Our Facebook
+  </a>
+</section>
 <section class="section" id="services">
   <h2>Our Services</h2>
   <div class="services">
