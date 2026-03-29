@@ -1,15 +1,9 @@
-<img width="1536" height="1024" alt="TangeRemodeling LOGO" src="https://github.com/user-attachments/assets/4755fc23-bead-45f8-8384-f0f871e06488" />
- <nav>
-  <a href="#services">Services</a>
-  <a href="#about">About</a>
-  <a href="#contact">Contact</a>
-</nav>
+![photos](https://github.com/user-attachments/assets/84b24ccc-2ea7-4b85-967f-6a717f8601e1)
 
-<section class="hero">
   <h1>Tange Remodeling LLC</h1>
   <p>Quality Work. Honest Service.</p>
   <a href="tel:16024189220" class="button">Call Now</a>
-</section>
+</section> 602.418.9220
 
 <section class="section" id="services">
   <h2>Our Services</h2>
@@ -59,3 +53,6 @@
 
 </body>
 </html>
+
+<img width="1536" height="1024" alt="TangeRemodeling LOGO" src="https://github.com/user-attachments/assets/bf855e3e-38b6-417f-b0df-fbb79967c411" />
+
